@@ -1,0 +1,12 @@
+form {
+    width: 785px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.resultForm {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+}
